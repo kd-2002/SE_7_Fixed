@@ -1,0 +1,35 @@
+/* Customize your styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333; /* Improved text color */
+}
+
+header {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
